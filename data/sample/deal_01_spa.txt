@@ -1,0 +1,5 @@
+SYNTHETIC SAMPLE DOCUMENT - NOT A REAL CONTRACT. Illustrative only.
+Share Purchase Agreement - Project Orion (synthetic)
+Clause 1. Purchase Price. The Buyer, Orion Holdings, shall pay INR 500 crore for 100% of the shares of TargetCo, subject to the Locked Box Accounts.
+Clause 2. Indemnity. The Seller indemnifies the Buyer for losses arising from Tax Warranty breaches up to a cap of 20% of the Purchase Price (INR 100 crore), with a basket threshold of INR 1 crore.
+Clause 3. Material Adverse Change (MAC). The Buyer may terminate before Closing if a MAC occurs; a MAC includes any event reducing TargetCo EBITDA by more than 15%.

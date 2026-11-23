@@ -1,0 +1,80 @@
+{
+ "alias_pairs": [
+  [
+   "Income Tax Department",
+   "CBDT"
+  ],
+  [
+   "Income Tax Dept",
+   "CBDT"
+  ],
+  [
+   "Tax Authority",
+   "CBDT"
+  ],
+  [
+   "Reserve Bank of India",
+   "RBI"
+  ],
+  [
+   "Central Bank",
+   "RBI"
+  ],
+  [
+   "Securities and Exchange Board of India",
+   "SEBI"
+  ],
+  [
+   "Prevention of Money Laundering Act",
+   "PMLA"
+  ],
+  [
+   "Know Your Customer",
+   "KYC"
+  ]
+ ],
+ "cross_doc": [
+  {
+   "entity": "Section 271C",
+   "sources": [
+    "tax_03_cbdt_notification.txt",
+    "deal_02_tax_warranty.txt"
+   ]
+  },
+  {
+   "entity": "Section 194T",
+   "sources": [
+    "tax_03_cbdt_notification.txt",
+    "deal_02_tax_warranty.txt"
+   ]
+  },
+  {
+   "entity": "CBDT",
+   "sources": [
+    "tax_03_cbdt_notification.txt",
+    "deal_02_tax_warranty.txt"
+   ]
+  },
+  {
+   "entity": "Reserve Bank of India",
+   "sources": [
+    "grc_01_rbi_kyc.txt",
+    "deal_03_fema.txt"
+   ]
+  },
+  {
+   "entity": "Orion Holdings",
+   "sources": [
+    "deal_01_spa.txt",
+    "deal_03_fema.txt"
+   ]
+  },
+  {
+   "entity": "Tax Warranty",
+   "sources": [
+    "deal_01_spa.txt",
+    "deal_02_tax_warranty.txt"
+   ]
+  }
+ ]
+}

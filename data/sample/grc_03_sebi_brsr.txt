@@ -1,0 +1,5 @@
+SYNTHETIC SAMPLE DOCUMENT - NOT REAL REGULATION. Illustrative only.
+SEBI BRSR Guidance Note (synthetic)
+Clause 1. The top 1000 listed entities by market capitalisation must file the Business Responsibility and Sustainability Report (BRSR) annually.
+Clause 2. BRSR Core requires reasonable assurance on key ESG indicators, aligned with ISO 31000 risk management principles for risk identification.
+Clause 3. The Securities and Exchange Board of India may levy penalties for delayed BRSR filing; the audit committee must review the report before submission.

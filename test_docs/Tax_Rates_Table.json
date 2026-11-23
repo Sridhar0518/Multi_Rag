@@ -1,0 +1,18 @@
+[
+ {
+  "section": "194Z",
+  "description": "TDS on freelancer payments",
+  "rate_percent": 5,
+  "threshold_inr": 50000
+ },
+ {
+  "section": "234Z",
+  "description": "Late filing fee Form 26QZ",
+  "fee_inr_per_day": 200
+ },
+ {
+  "section": "271Z",
+  "description": "Penalty for failure to deduct",
+  "penalty": "equal to tax not deducted"
+ }
+]

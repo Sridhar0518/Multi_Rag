@@ -1,0 +1,5 @@
+SYNTHETIC SAMPLE DOCUMENT - NOT A REAL CONTRACT. Illustrative only.
+SPA Schedule 4: Tax Warranties - Project Orion (synthetic)
+Clause 1. The Seller warrants that TargetCo has deducted tax at source in accordance with Section 194T and has no unresolved CBDT penalty proceedings under Section 271C.
+Clause 2. Any breach of this Schedule is a Tax Warranty breach for purposes of SPA Clause 2 (Indemnity).
+Clause 3. Claims under this Schedule must be notified within 24 months of Closing.

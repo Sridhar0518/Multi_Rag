@@ -1,0 +1,100 @@
+[
+ {
+  "id": "t1",
+  "question": "What TDS rate applies to freelancer payments above the threshold?",
+  "practice": "Tax & Regulatory Services",
+  "facts": [
+   "5%",
+   "INR 50,000"
+  ],
+  "source": "Tax_Circular_TDS_Freelancers.pdf",
+  "type": "keyword"
+ },
+ {
+  "id": "t2",
+  "question": "Is the Section 194Z change prospective or retrospective, and from when?",
+  "practice": "Tax & Regulatory Services",
+  "facts": [
+   "prospective",
+   "1 July 2026"
+  ],
+  "source": "Tax_Circular_TDS_Freelancers.pdf",
+  "type": "keyword"
+ },
+ {
+  "id": "t3",
+  "question": "What is the daily fee the Income Tax Dept charges for late Form 26QZ filing?",
+  "practice": "Tax & Regulatory Services",
+  "facts": [
+   "INR 200"
+  ],
+  "source": "Tax_Circular_TDS_Freelancers.pdf / Tax_Rates_Table.json",
+  "type": "vocab (alias: Income Tax Dept)"
+ },
+ {
+  "id": "t4",
+  "question": "Which control covers vendor incident reporting and how fast must vendors report?",
+  "practice": "Risk Advisory & Governance (GRC)",
+  "facts": [
+   "V-04",
+   "6 hours"
+  ],
+  "source": "GRC_Vendor_Risk_SOP.docx",
+  "type": "keyword"
+ },
+ {
+  "id": "t5",
+  "question": "What penalty could the central bank impose if the incident-reporting control fails?",
+  "practice": "Risk Advisory & Governance (GRC)",
+  "facts": [
+   "INR 25 lakh"
+  ],
+  "source": "GRC_Vendor_Risk_SOP.docx",
+  "type": "vocab (central bank = RBI)"
+ },
+ {
+  "id": "t6",
+  "question": "What is the indemnity cap in the Meridian SPA?",
+  "practice": "Deal Advisory & Corporate Finance",
+  "facts": [
+   "INR 75 crore",
+   "25%"
+  ],
+  "source": "Deal_SPA_Project_Meridian.pdf",
+  "type": "keyword"
+ },
+ {
+  "id": "t7",
+  "question": "If AlphaTech failed to deduct TDS on freelancer payments, what is the Buyer's maximum recovery and by when must it claim?",
+  "practice": "Deal Advisory & Corporate Finance",
+  "facts": [
+   "INR 75 crore",
+   "18 months",
+   "194Z"
+  ],
+  "source": "Deal_SPA_Project_Meridian.pdf + Tax_Circular_TDS_Freelancers.pdf",
+  "type": "MULTI-HOP (best for Graph RAG)"
+ },
+ {
+  "id": "t8",
+  "question": "What tax penalty exposure sits behind the SPA tax warranty and how large is it relative to the tax missed?",
+  "practice": "Deal Advisory & Corporate Finance",
+  "facts": [
+   "271Z",
+   "equal to the tax not deducted"
+  ],
+  "source": "Deal_SPA_Project_Meridian.pdf + Tax_Circular_TDS_Freelancers.pdf",
+  "type": "MULTI-HOP (best for Graph RAG)"
+ },
+ {
+  "id": "t9",
+  "question": "Can the buyer walk away if the target's sales drop sharply before completion?",
+  "practice": "Deal Advisory & Corporate Finance",
+  "facts": [
+   "MAC",
+   "10%"
+  ],
+  "source": "Deal_SPA_Project_Meridian.pdf",
+  "type": "vocab (no word 'MAC' in question)"
+ }
+]

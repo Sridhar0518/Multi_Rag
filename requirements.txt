@@ -1,0 +1,24 @@
+# Runtime
+langchain
+langchain-community
+langchain-anthropic
+langchain-text-splitters
+langgraph
+chromadb
+networkx
+rank_bm25
+fastembed
+plotly
+streamlit
+pandas
+pypdf
+python-docx
+python-dotenv
+numpy
+
+# Optional: only if LLM_PROVIDER=openai
+# langchain-openai
+
+# Dev / testing (scripts/make_test_docs.py needs reportlab to build the PDFs)
+pytest
+reportlab

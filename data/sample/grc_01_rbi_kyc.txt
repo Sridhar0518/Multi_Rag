@@ -1,0 +1,5 @@
+SYNTHETIC SAMPLE DOCUMENT - NOT REAL REGULATION. Illustrative only.
+RBI Master Direction on KYC (synthetic)
+Clause 1. Regulated Entities must complete Customer Due Diligence (CDD) before establishing an account-based relationship.
+Clause 2. Re-KYC must be performed every 2 years for high-risk customers, 8 years for medium-risk and 10 years for low-risk customers.
+Clause 3. Non-compliance with Clause 1 attracts a monetary penalty of up to INR 1 crore per instance, imposed by the Reserve Bank of India under the PMLA framework.

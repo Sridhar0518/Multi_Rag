@@ -1,0 +1,5 @@
+SYNTHETIC SAMPLE DOCUMENT - NOT REAL REGULATION. Illustrative only.
+PMLA Compliance Control Matrix (synthetic)
+Clause 1. Control C-12 (Transaction Monitoring) maps to the PMLA obligation to report suspicious transactions to the Financial Intelligence Unit within 7 days.
+Clause 2. Control C-15 (Customer Screening) maps to the KYC obligation of CDD under the RBI Master Direction, Clause 1.
+Clause 3. Failure of Control C-12 is a reportable internal audit finding and escalates to the Chief Compliance Officer.
